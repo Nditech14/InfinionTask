@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfinionTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c90b00be05d4efeaf7f75de5fe47c9ac358ee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfinionTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfinionTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
